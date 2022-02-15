@@ -19,4 +19,5 @@
 ![matrix](https://user-images.githubusercontent.com/88095232/153998916-986f8939-036b-4c3d-836d-225a9ee937fc.PNG)
 ![student](https://user-images.githubusercontent.com/88095232/153998918-0a413fe9-de87-409d-b965-f8551de08309.PNG)
 # lesson7
-
+![la](https://user-images.githubusercontent.com/88095232/154027076-233918d1-1bcd-4182-a1e6-e13315a0994e.PNG)
+![pie](https://user-images.githubusercontent.com/88095232/154027085-29ce5fe1-c587-45b5-b1fb-49c2ad7a5e18.PNG)
