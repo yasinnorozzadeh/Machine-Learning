@@ -76,5 +76,5 @@ class Perceptron:
                 
 perceptron = Perceptron(epochs=3, learning_rate=0.0001)
 perceptron.fit(X_train, Y_train)
-print("predict:\n", perceptron.predict(X_test))
+print("predict:", perceptron.predict(X_test))
 print("evaluate:", perceptron.evaluate(X_test, Y_test))
