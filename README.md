@@ -15,3 +15,8 @@
 # lesson39
 ![Capture](https://user-images.githubusercontent.com/88095232/155764290-eadee0ab-916e-4665-8073-77cd72759187.PNG)
 ![Capture2](https://user-images.githubusercontent.com/88095232/155764301-59fd0821-67db-4563-bf20-cde05b949caa.PNG)
+# lesson 40
+## titanic
+| Algorithm  | KNN    | MLP | Perceptron |
+| ------------- |:-------------:|:-----:|:---:|
+  | Accuracy | 65.55% | 77.03% | 81.33% |
