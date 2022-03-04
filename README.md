@@ -20,3 +20,5 @@
 | Algorithm  | KNN    | MLP | Perceptron |
 | ------------- |:-------------:|:-----:|:---:|
   | Accuracy | 65.55% | 77.03% | 81.33% |
+# lesson 41
+![weather](https://user-images.githubusercontent.com/88095232/156843941-2884aff0-5c16-42fb-8624-6d002cb5005a.PNG)
